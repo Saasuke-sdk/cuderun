@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"jvt1s176e1j5i","package_name":"game","contract_name":"Carrun","module_path":"game::Carrun::Carrun","artifacts":{"sierra":"game_Carrun.contract_class.json","casm":"game_Carrun.compiled_contract_class.json"}}]}
